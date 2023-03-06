@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JJ3e3qR15isWdvX/LAs560vH1MuSXClffcqldqKZfLj74xES0DJdqV1yyz0oI+Uqv1/zGcjCH9AEkGle8T1SUg==",
+  "success": true,
+  "projectFilePath": "F:\\Projetos ASP.NET\\Trabalhando-com-eventos-ASP.NET-Core-6\\src\\EventBus\\EventBus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.3\\microsoft.extensions.logging.abstractions.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
